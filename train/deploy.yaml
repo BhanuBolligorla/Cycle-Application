@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: train-ticket-container
-          image: rajkumarnanchari/train-ticket-app
+          image: indugone/train-ticket-app
           ports:
             - containerPort: 5000
